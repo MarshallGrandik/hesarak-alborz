@@ -1,4 +1,4 @@
-@font-face{font-family:'rezvan';src:url('fonts/Rezvan/Rezvan.ttf')format('truetype');}
+@font-face{font-family:'rezvan';src:url('Rezvan.ttf')format('truetype');}
 
 html, body {
   white-space: nowrap;
