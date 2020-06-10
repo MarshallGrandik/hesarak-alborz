@@ -137,18 +137,8 @@ padding:0 10px;
   -webkit-animation: at-ripple 0.6s linear infinite;
   animation: at-ripple 0.6s linear infinite;
 }
-@media (max-width: 1085px) {.logo{  right:5%;top: 10%;}}
-@media (max-width: 992px) {.logo{  right:3%;top:80%;}}
-@media (max-width: 900px) {.logo{  left:5%;top:50%;
-width:50px;
-height:50px;
-background-size: 50px 50px;
-border: 2px solid #696969;
-}
-.logo img{width:50px !important;height:50px !important;}
-}
 
-.logo:hover img, .logo:focus img , .logo:active img{
+.logo:hover img {
   opacity: 1;
 }
 .logo img{width: 70px;height:70px;  border-radius: 50%;  transition: opacity .5s linear;
